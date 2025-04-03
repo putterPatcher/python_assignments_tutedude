@@ -10,5 +10,5 @@ else:
 			return 1
 		else:
 			return factorial(a-1)*a
-	print(factorial(a))
+	print("Factorial of {} is {}".format(a, factorial(a)))
 

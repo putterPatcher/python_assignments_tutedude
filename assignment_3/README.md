@@ -1,24 +1,46 @@
-Task 1: Calculate factorial using a function
+# Task 1: Calculate factorial using a function
 
 python task_1.py
 
+'a' is an whole number.
+
+The factorial of 'a' is calculated by using recursion.
+
+The number is multiplied by it's preceding factorial.
+
 Output:
 
-Enter a whole number: 12
-
-479001600
-
-Output:
+---
 
 Enter a whole number: 5
 
-120
+Factorial of 5 is 120
 
-Task 2: Using the math module for calculations
+---
+
+Enter a whole number: 15
+
+Factorial of 15 is 1307674368000
+
+---
+
+Enter a whole number: -2
+
+Enter a whole number
+
+---
+
+# Task 2: Using the math module for calculations
 
 python task_2.py
 
+'a' is a float number taken as input.
+
+The square root, natural log, and sine for the number is calculated using the functions in the library 'math'
+
 Output:
+
+---
 
 Enter a number: 25
 
@@ -28,7 +50,7 @@ Logarithm: 3.2188758248682006
 
 Sine: -0.13235175009777303
 
-Output:
+---
 
 Enter a number: 4
 
