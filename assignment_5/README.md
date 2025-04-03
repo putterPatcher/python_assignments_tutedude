@@ -1,8 +1,20 @@
-Task 1: Create a Dictionary of Student Marks
+# Task 1: Create a Dictionary of Student Marks
 
 python task_1.py
 
+The program takes the number of students as an input.
+
+Then we enter the name and marks for each student.
+
+Then we can check for the marks for a given student.
+
+If the student does not exist then the output is 'Student not found.'
+
+If the name of the student is an empty string then the program exits.
+
 Output:
+
+---
 
 Enter the number of students: 3
 
@@ -32,7 +44,19 @@ Peter's marks: 45
 
 Enter the student name:
 
-Task 2: Demonstrate List Slicing
+---
+
+# Task 2: Demonstrate List Slicing
+
+python task_2.py
+
+We use list comprehension to get the values in from 1 to 10.
+
+The values are then printed.
+
+Then we slice the first five elements in the list and print them.
+
+Then we use list comprehension to reverse the list and print the reversed list.
 
 Output:
 
