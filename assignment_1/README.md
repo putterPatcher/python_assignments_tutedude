@@ -3,8 +3,11 @@
 python add_two_numbers.py
 
 The program takes number1 and number 2 as input. We assign it to the variable 'c'.
+
 The string 'c' is split into float values 'a' and 'b'.
+
 The required mathematical operations are performed in the numbers.
+
 Error is handled for invalid input.
 
 Output:
@@ -77,6 +80,7 @@ Input: 10
 python greeting_name.py
 
 The program takes the first name 'a' and last name 'b' as input.
+
 Prints the greeting.
 
 Output:
