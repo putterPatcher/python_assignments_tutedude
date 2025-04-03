@@ -14,6 +14,8 @@ Output:
 
 Error: The file 'sample.txt' was not found.
 
+Task 2: Write and Append Data to a File
+
 python task_2.py
 
 Output:
