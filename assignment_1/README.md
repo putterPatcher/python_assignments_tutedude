@@ -1,4 +1,4 @@
-Task 1: Perform Basic Mathematical Operations
+# Task 1: Perform Basic Mathematical Operations
 
 python add_two_numbers.py
 
@@ -70,7 +70,9 @@ Invalid input!
 
 Input: 10
 
-Task 2: Create a Personalized Greeting
+----
+
+# Task 2: Create a Personalized Greeting
 
 python greeting_name.py
 
