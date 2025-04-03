@@ -81,8 +81,12 @@ Prints the greeting.
 
 Output:
 
+---
+
 Enter first name: Shantanu
 
 Enter last name: Kor
 
 Hello Shantanu Kor, you ran the program successfully!
+
+---
